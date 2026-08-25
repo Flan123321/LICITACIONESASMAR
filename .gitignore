@@ -1,0 +1,9 @@
+node_modules/
+.next/
+.pg/
+.pgdata/
+output/
+__pycache__/
+*.pyc
+dashboard/.env.local
+dashboard/.next/server.log
